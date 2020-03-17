@@ -1,20 +1,20 @@
-艾宾浩斯遗忘曲线复习计划表：
+艾宾浩斯遗忘曲线复习计划表（The Ebbinghaus Forgetting Curve Schedule）：
 
 | 序号 | 时间 | 学    习    内    容 | 1天  | 2天  | 4天  | 7天  | 15天 | 1月  | 3月  | 6月  |
 | :--: | :--: | :----------------------------------------------------------- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|  1   | 3.2  | 1. 两数之和                                  |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
-|  2   | 3.3  | 面试题10.01. 合并排序的数组                   |  1   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
-|  3   | 3.4  | 994. 腐烂的橘子                                    |  2   |  1   |  -   |  -   |  -   |  -   |  -   |  -   |
-|  4   | 3.5  | 1103. 分糖果II                                    |  3   |  2   |  -   |  -   |  -   |  -   |  -   |  -   |
-|  5   | 3.6  | 面试题57-II. 和为s的连续正数序列、对比学习Golang VS Python3 |  4   |  3   |  1   |  -   |  -   |  -   |  -   |  -   |
-|  6   | 3.7  | 面试题59-II. 队列的最大值                         |  5   |  4   |  2   |  -   |  -   |  -   |  -   |  -   |
-|  7   | 3.8  | 补充1. 斐波那契数列、322. 零钱兑换 |  6   |  5   |  3   |  -   |  -   |  -   |  -   |  -   |
-|  8   | 3.9  | 121. 买卖股票的最佳时机           |  7   |  6   |  4   |  1   |  -   |  -   |  -   |  -   |
-|  9   | 3.10 | 543. 二叉树的直径、124. 二叉树中的最大路径和、687. 最长同值路径 |  8   |  7   |  5   |  2   |  -   |  -   |  -   |  -   |
-| 10 | 3.11 | 1013. 将数组分成和相等的三个部分 | 9 | 8 | 6 | 3 | - | - | - | - |
-| 11 | 3.12 | 1071. 字符串的最大公因子 | 10 | 9 | 7 | 4 | - | - | - | - |
-| 12 | 3.13 | 169. 多数元素 | 11 | 10 | 8 | 5 | - | - | - | - |
-| 13 | 3.14 | 300. 最长上升子序列 | 12 | 11 | 9 | 6 | - | - | - | - |
-| 14 | 3.15 | 695. 岛屿的最大面积 | 13 | 12 | 10 | 7 | - | - | - | - |
-| 15 | 3.16 | 面试题 01.06. 字符串压缩 | 14 | 13 | 11 | 8 | - | - | - | - |
-| 16 | 3.17 | 1160. 拼写单词 | 15 | 14 | 12 | 9 | 1 | - | - | - |
+|  1   | 3.2  | [1. 两数之和](https://github.com/SewellDinG/LeetCodeTour/blob/master/1.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md) |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
+|  2   | 3.3  | [面试题10.01. 合并排序的数组](https://github.com/SewellDinG/LeetCodeTour/blob/master/%E9%9D%A2%E8%AF%95%E9%A2%98%2010.01.%20%E5%90%88%E5%B9%B6%E6%8E%92%E5%BA%8F%E7%9A%84%E6%95%B0%E7%BB%84.md) |  1   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
+|  3   | 3.4  | [994. 腐烂的橘子](https://github.com/SewellDinG/LeetCodeTour/blob/master/994.%20%E8%85%90%E7%83%82%E7%9A%84%E6%A9%98%E5%AD%90.md) |  2   |  1   |  -   |  -   |  -   |  -   |  -   |  -   |
+|  4   | 3.5  | [1103. 分糖果II](https://github.com/SewellDinG/LeetCodeTour/blob/master/1103.%20%E5%88%86%E7%B3%96%E6%9E%9C%20II.md) |  3   |  2   |  -   |  -   |  -   |  -   |  -   |  -   |
+|  5   | 3.6  | [面试题57-II. 和为s的连续正数序列](https://github.com/SewellDinG/LeetCodeTour/blob/master/%E9%9D%A2%E8%AF%95%E9%A2%9857%20-%20II.%20%E5%92%8C%E4%B8%BAs%E7%9A%84%E8%BF%9E%E7%BB%AD%E6%AD%A3%E6%95%B0%E5%BA%8F%E5%88%97.md) |  4   |  3   |  1   |  -   |  -   |  -   |  -   |  -   |
+|  6   | 3.7  | [面试题59-II. 队列的最大值](https://github.com/SewellDinG/LeetCodeTour/blob/master/%E9%9D%A2%E8%AF%95%E9%A2%9859%20-%20II.%20%E9%98%9F%E5%88%97%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC.md) |  5   |  4   |  2   |  -   |  -   |  -   |  -   |  -   |
+|  7   | 3.8  | [补充1. 斐波那契数列](https://github.com/SewellDinG/LeetCodeTour/blob/master/%E8%A1%A5%E5%85%851.%20%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97.md)、[322. 零钱兑换](https://github.com/SewellDinG/LeetCodeTour/blob/master/322.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.md) |  6   |  5   |  3   |  -   |  -   |  -   |  -   |  -   |
+|  8   | 3.9  | [121. 买卖股票的最佳时机](https://github.com/SewellDinG/LeetCodeTour/blob/master/121.%20%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.md) |  7   |  6   |  4   |  1   |  -   |  -   |  -   |  -   |
+|  9   | 3.10 | [543. 二叉树的直径](https://github.com/SewellDinG/LeetCodeTour/blob/master/543.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E7%9B%B4%E5%BE%84.md)、[124. 二叉树中的最大路径和](https://github.com/SewellDinG/LeetCodeTour/blob/master/124.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E7%9A%84%E6%9C%80%E5%A4%A7%E8%B7%AF%E5%BE%84%E5%92%8C.md)、[687. 最长同值路径](https://github.com/SewellDinG/LeetCodeTour/blob/master/687.%20%E6%9C%80%E9%95%BF%E5%90%8C%E5%80%BC%E8%B7%AF%E5%BE%84.md) |  8   |  7   |  5   |  2   |  -   |  -   |  -   |  -   |
+| 10 | 3.11 | [1013. 将数组分成和相等的三个部分](https://github.com/SewellDinG/LeetCodeTour/blob/master/1013.%20%E5%B0%86%E6%95%B0%E7%BB%84%E5%88%86%E6%88%90%E5%92%8C%E7%9B%B8%E7%AD%89%E7%9A%84%E4%B8%89%E4%B8%AA%E9%83%A8%E5%88%86.md) | 9 | 8 | 6 | 3 | - | - | - | - |
+| 11 | 3.12 | [1071. 字符串的最大公因子](https://github.com/SewellDinG/LeetCodeTour/blob/master/1071.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%9C%80%E5%A4%A7%E5%85%AC%E5%9B%A0%E5%AD%90.md) | 10 | 9 | 7 | 4 | - | - | - | - |
+| 12 | 3.13 | [169. 多数元素](https://github.com/SewellDinG/LeetCodeTour/blob/master/169.%20%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.md) | 11 | 10 | 8 | 5 | - | - | - | - |
+| 13 | 3.14 | [300. 最长上升子序列](https://github.com/SewellDinG/LeetCodeTour/blob/master/300.%20%E6%9C%80%E9%95%BF%E4%B8%8A%E5%8D%87%E5%AD%90%E5%BA%8F%E5%88%97.md) | 12 | 11 | 9 | 6 | - | - | - | - |
+| 14 | 3.15 | [695. 岛屿的最大面积](https://github.com/SewellDinG/LeetCodeTour/blob/master/695.%20%E5%B2%9B%E5%B1%BF%E7%9A%84%E6%9C%80%E5%A4%A7%E9%9D%A2%E7%A7%AF.md) | 13 | 12 | 10 | 7 | - | - | - | - |
+| 15 | 3.16 | [面试题 01.06. 字符串压缩](https://github.com/SewellDinG/LeetCodeTour/blob/master/%E9%9D%A2%E8%AF%95%E9%A2%98%2001.06.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8E%8B%E7%BC%A9.md) | 14 | 13 | 11 | 8 | - | - | - | - |
+| 16 | 3.17 | [1160. 拼写单词](https://github.com/SewellDinG/LeetCodeTour/blob/master/1160.%20%E6%8B%BC%E5%86%99%E5%8D%95%E8%AF%8D.md) | 15 | 14 | 12 | 9 | 1 | - | - | - |
