@@ -20,4 +20,4 @@
 | 16 | 3.17 | [1160. 拼写单词](https://github.com/SewellDinG/LeetCodeTour/blob/master/1160.%20%E6%8B%BC%E5%86%99%E5%8D%95%E8%AF%8D.md) | 15 | 14 | 12 | 9 | 1 | - | - | - |
 | 17 | 3.18 | [836. 矩形重叠](https://github.com/SewellDinG/LeetCodeTour/blob/master/836.%20%E7%9F%A9%E5%BD%A2%E9%87%8D%E5%8F%A0.md) | 16 | 15 | 13 | 10 | 2 | - | - | - |
 | 18 | 3.19 | [409. 最长回文串](https://github.com/SewellDinG/LeetCodeTour/blob/master/409.%20%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E4%B8%B2.md) | 17 | 16 | 14 | 11 | 3 | - | - | - |
-| 19 | 3.20 | 面试题40. 最小的k个数 | 18 | 17 | 15 | 12 | 4 | - | - | - |
+| 19 | 3.20 | [面试题40. 最小的k个数](https://github.com/SewellDinG/LeetCodeTour/blob/master/%E9%9D%A2%E8%AF%95%E9%A2%9840.%20%E6%9C%80%E5%B0%8F%E7%9A%84k%E4%B8%AA%E6%95%B0.md) | 18 | 17 | 15 | 12 | 4 | - | - | - |
