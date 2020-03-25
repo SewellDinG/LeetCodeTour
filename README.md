@@ -1,3 +1,5 @@
+每日1题挑战：“正迎春招，力扣君为小伙伴们精选了 61 道 IT 名企高频面试题。3 月 1 日起，每日 1 题，陪伴大家一起打卡刷题，养成自律习惯，顺利拿到 Dream Offer。”
+
 艾宾浩斯遗忘曲线复习计划表（The Ebbinghaus Forgetting Curve Schedule）：
 
 | 序号 | 时间 | 学    习    内    容 | 1天  | 2天  | 4天  | 7天  | 15天 | 1月  | 3月  | 6月  |
@@ -25,3 +27,11 @@
 | 21 | 3.23 | [876. 链表的中间结点](https://github.com/SewellDinG/LeetCodeTour/blob/master/876.%20%E9%93%BE%E8%A1%A8%E7%9A%84%E4%B8%AD%E9%97%B4%E7%BB%93%E7%82%B9.md) | 20 | 19 | 17 | 14 | 6 | - | - | - |
 | 22 | 3.24 | [面试题 17.16. 按摩师](https://github.com/SewellDinG/LeetCodeTour/blob/master/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.16.%20%E6%8C%89%E6%91%A9%E5%B8%88.md) | 21 | 20 | 18 | 15 | 7 | - | - | - |
 | 23 | 3.25 | [892. 三维形体的表面积](https://github.com/SewellDinG/LeetCodeTour/blob/master/892.%20%E4%B8%89%E7%BB%B4%E5%BD%A2%E4%BD%93%E7%9A%84%E8%A1%A8%E9%9D%A2%E7%A7%AF.md) | 22 | 21 | 19 | 16 | 8 | - | - | - |
+
+未打卡：
+
+| 序 号 | 时 间 | 题 目                                                        |
+| :---: | :---: | ------------------------------------------------------------ |
+|   1   |  3.1  | [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues) |
+|   2   |  3.2  | [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list) |
+|   3   | 3.21  | [365. 水壶问题](https://leetcode-cn.com/problems/water-and-jug-problem) |
