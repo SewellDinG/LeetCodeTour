@@ -38,3 +38,4 @@
 |   1   |  3.1  | [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues) |
 |   2   |  3.2  | [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list) |
 |   3   | 3.21  | [365. 水壶问题](https://leetcode-cn.com/problems/water-and-jug-problem) |
+|   4   | 3.29  | [1162. 地图分析](https://leetcode-cn.com/problems/as-far-from-land-as-possible) |
