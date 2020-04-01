@@ -41,3 +41,4 @@
 |   2   |  3.2  | [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list) |
 |   3   | 3.21  | [365. 水壶问题](https://leetcode-cn.com/problems/water-and-jug-problem) |
 |   4   | 3.29  | [1162. 地图分析](https://leetcode-cn.com/problems/as-far-from-land-as-possible) |
+|   5   |  4.1  | [1111. 有效括号的嵌套深度](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) |
