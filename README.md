@@ -32,8 +32,9 @@
 | 26 | 3.28 | [820. 单词的压缩编码](https://github.com/SewellDinG/LeetCodeTour/blob/master/820.%20%E5%8D%95%E8%AF%8D%E7%9A%84%E5%8E%8B%E7%BC%A9%E7%BC%96%E7%A0%81.md) | 25 | 24 | 22 | 19 | 11 | - | - | - |
 | 27 | 3.30 | [面试题62. 圆圈中最后剩下的数字](https://github.com/SewellDinG/LeetCodeTour/blob/master/%E9%9D%A2%E8%AF%95%E9%A2%9862.%20%E5%9C%86%E5%9C%88%E4%B8%AD%E6%9C%80%E5%90%8E%E5%89%A9%E4%B8%8B%E7%9A%84%E6%95%B0%E5%AD%97.md) | 26 | 25 | 23 | 20 | 12 | - | - | - |
 | 28 | 3.31 | [912. 排序数组](https://github.com/SewellDinG/LeetCodeTour/blob/master/912.%20%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.md) | 27 | 26 | 24 | 21 | 13 | - | - | - |
-|  |  | [238. 除自身以外数组的乘积](https://github.com/SewellDinG/LeetCodeTour/blob/master/238.%20%E9%99%A4%E8%87%AA%E8%BA%AB%E4%BB%A5%E5%A4%96%E6%95%B0%E7%BB%84%E7%9A%84%E4%B9%98%E7%A7%AF.md) |  |  |  |  |  |  |  |  |
-| | | [面试题29. 顺时针打印矩阵](https://github.com/SewellDinG/LeetCodeTour/blob/master/%E9%9D%A2%E8%AF%95%E9%A2%9829.%20%E9%A1%BA%E6%97%B6%E9%92%88%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5.md) | | | | | | | | |
+|  | 6.4 | [238. 除自身以外数组的乘积](https://github.com/SewellDinG/LeetCodeTour/blob/master/238.%20%E9%99%A4%E8%87%AA%E8%BA%AB%E4%BB%A5%E5%A4%96%E6%95%B0%E7%BB%84%E7%9A%84%E4%B9%98%E7%A7%AF.md) |  |  |  |  |  |  |  |  |
+| | 6.5 | [面试题29. 顺时针打印矩阵](https://github.com/SewellDinG/LeetCodeTour/blob/master/%E9%9D%A2%E8%AF%95%E9%A2%9829.%20%E9%A1%BA%E6%97%B6%E9%92%88%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5.md) | | | | | | | | |
+| | 6.6 | [128. 最长连续序列](https://github.com/SewellDinG/LeetCodeTour/blob/master/128.%20%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E5%BA%8F%E5%88%97.md) | | | | | | | | |
 
 未打卡：
 
